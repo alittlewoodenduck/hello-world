@@ -1,2 +1,3 @@
 # hello-world
-his repository is for practicing GitHub Flow. 
+This repository is for practicing GitHub Flow. 
+My name is Andrew Wood and my favourite colour is emerald green. 
